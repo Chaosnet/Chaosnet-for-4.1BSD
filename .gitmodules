@@ -1,3 +1,9 @@
 [submodule "simh"]
 	path = simh
 	url = https://github.com/simh/simh
+[submodule "tapeutils"]
+	path = tapeutils
+	url = https://github.com/brouhaha/tapeutils
+[submodule "simtools"]
+	path = simtools
+	url = https://github.com/simh/simtools
