@@ -9,5 +9,5 @@ export PATH
 
 expect -f install.tcl
 
-gunzip -k chaos-4.1.tar.gz
+zcat chaos-4.1.tar.gz > chaos-4.1.tar
 (cd simtools/converters/tar2mt; make tar2mt)
